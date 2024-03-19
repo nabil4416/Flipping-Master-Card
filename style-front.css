@@ -1,0 +1,59 @@
+.front {
+    padding: 25px;
+}
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img {
+    max-width: 100%;
+}
+.title {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.logo {
+    width: 60px;
+}
+h1 {
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: 1.5px;
+}
+.chip {
+    width: 70px;
+}
+ 
+.card-number {
+    margin-top: 45px;
+}
+.card-number h2 {
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 5px;
+    letter-spacing: 1.5px;
+}
+.card-number p {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    letter-spacing: 1.5px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+.footer .name h2 {
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1.5px;
+}
+.footer .validation-date p {
+    font-size: 14px;
+    font-weight: 400;
+}
